@@ -11,9 +11,9 @@ Após a roteirização realizada, o mapa deve ser atualizado e exibir o caminho 
 Abaixo um simples mockup para ilustrar o resultado esperado:
 ![Image of the Mockup](https://raw.githubusercontent.com/Attivilog/DesafioRoteirizador/master/Mockup.png)
 
-Para a construção do roteirizador, poderão ser utilizadas quaisquer ferramentas e bibliotecas de mapa que o usuário desejar. Embora, sugerimos: Google, MapBox ou Leaflet.
-
 ## Tecnologia
+Para a construção do roteirizador, poderão ser utilizadas quaisquer ferramentas e bibliotecas de mapa que o usuário desejar. Embora, sugerimos: [Google](https://developers.google.com/maps/documentation/javascript/tutorial), [MapBox](https://docs.mapbox.com/) ou [Leaflet](https://leafletjs.com/reference-1.5.0.html).
+
 * O Frontend deverá ser construído em React e o Backend em NodeJS. 
 * O banco de dados ficará a critério do candidato, podendo ser relacional ou não. 
 
