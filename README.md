@@ -14,8 +14,13 @@ Abaixo um simples mockup para ilustrar o resultado esperado:
 ## Tecnologia
 Para a construção do roteirizador, poderão ser utilizadas quaisquer ferramentas e bibliotecas de mapa que o usuário desejar. Embora, sugerimos: [Google](https://developers.google.com/maps/documentation/javascript/tutorial), [MapBox](https://docs.mapbox.com/) ou [Leaflet](https://leafletjs.com/reference-1.5.0.html).
 
-* O Frontend deverá ser construído em React e o Backend em NodeJS. 
+### Para a vaga JavaScript
+* O Frontend deverá ser construído em React e o Backend em NodeJS.
 * O banco de dados ficará a critério do candidato, podendo ser relacional ou não. 
+
+### Para a vaga de C# 
+* Utilizar Dot net core.
+* O frontend pode ser contruindo em na tecnologia da escolha do candidato.
 
 ## Alguns pontos que serão avaliados:
 * Facilidade na seleção do pontos do percurso, como por exemplo endereços autocompletáveis;
@@ -30,7 +35,7 @@ Para a construção do roteirizador, poderão ser utilizadas quaisquer ferrament
 A publicação deverá acontecer no Github ou Gitlab, com as devidas instruções para a execução do código.
 
 ## Prazo
-As soluções deverão ser enviadas (link do projeto) para francisco@attivilog.com.br até o dia 10/10/2019.
+As soluções deverão ser enviadas (link do projeto) para francisco@attivilog.com.br até o dia 31/01/2020.
 
 ## Dúvidas?
 Contate no e-mail mencionado acima.
