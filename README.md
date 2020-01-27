@@ -19,8 +19,9 @@ Para a construção do roteirizador, poderão ser utilizadas quaisquer ferrament
 * O banco de dados ficará a critério do candidato, podendo ser relacional ou não. 
 
 ### Para a vaga de C# 
-* Utilizar Dot net core.
-* O frontend pode ser contruindo em na tecnologia da escolha do candidato.
+* Utilizar Dot net core;
+* O frontend pode ser contruindo em na tecnologia da escolha do candidato;
+* O banco de dados deverá ser utilizado PostgreSQL, ou algum SGBD gratuito. Excluindo SQL Server, etc.
 
 ## Alguns pontos que serão avaliados:
 * Facilidade na seleção do pontos do percurso, como por exemplo endereços autocompletáveis;
