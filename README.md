@@ -36,7 +36,7 @@ Para a construção do roteirizador, poderão ser utilizadas quaisquer ferrament
 A publicação deverá acontecer no Github ou Gitlab, com as devidas instruções para a execução do código.
 
 ## Prazo
-As soluções deverão ser enviadas (link do projeto) para francisco@attivilog.com.br até o dia 31/01/2020.
+As soluções deverão ser enviadas (link do projeto) para francisco@attivilog.com.br até o dia 20/02/2020.
 
 ## Dúvidas?
 Contate no e-mail mencionado acima.
